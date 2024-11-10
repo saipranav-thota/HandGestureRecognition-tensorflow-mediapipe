@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78
+cvzone==1.5.6
+mediapipe==0.10.9
+tensorflow==2.15
+scikit-learn
+seaborn

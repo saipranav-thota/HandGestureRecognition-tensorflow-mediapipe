@@ -1,0 +1,4 @@
+0 Fist
+1 Like
+2 Palm
+3 Thumb
